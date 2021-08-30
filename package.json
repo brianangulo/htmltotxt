@@ -1,0 +1,8 @@
+{
+  "name": "htmltotxty",
+  "version": "1.0.0",
+  "description": "HTML text extracter/HTML to txt transpiler",
+  "main": "index.js",
+  "author": "Brian Angulo",
+  "license": "MIT"
+}
