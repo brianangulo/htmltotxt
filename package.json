@@ -4,6 +4,5 @@
   "description": "HTML text extracter/HTML to txt transpiler",
   "main": "index.js",
   "author": "brian219",
-  "license": "MIT",
-  "type": "module"
+  "license": "MIT"
 }
