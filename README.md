@@ -22,7 +22,9 @@ npm i
 ```
 import { parser, generator } from "htmltotxt";
 
-/* parser returns plain text extracted from the html file and generator creates .txt files based on any string passed to it. They can be used together as seen below or separately */
+/* parser returns plain text extracted from the html file and generator 
+creates .txt files based on any string passed to it. They can be used 
+together as seen below or separately */
 
 generator(parser('./test.html'));
 ```
