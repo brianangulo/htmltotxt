@@ -1,6 +1,6 @@
 {
   "name": "htmltotxt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "HTML text extracter/HTML to txt transpiler",
   "main": "index.js",
   "author": "brian219",
